@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="41.0033828" lon="14.549675">
+		<name>Loc. Fosso Agnone</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>008c00</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="40.9904915" lon="14.5642662">
+		<name>Vivaio Costa Grande</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<trk>
+		<name>Fosso Agnone - Vivaio Costa Grande</name>
+		<desc>Length: 2.983 km (1.854 mi)</desc>
+		<trkseg>
+			<trkpt lat="41.0033707" lon="14.5497715"><time>2022-02-03T10:09:39Z</time></trkpt>
+			<trkpt lat="41.0034759" lon="14.5498842"><time>2022-02-03T10:09:54Z</time></trkpt>
+			<trkpt lat="41.0035569" lon="14.5500183"><time>2022-02-03T10:10:09Z</time></trkpt>
+			<trkpt lat="41.003816" lon="14.5504904"><time>2022-02-03T10:10:58Z</time></trkpt>
+			<trkpt lat="41.0038828" lon="14.550595"><time>2022-02-03T10:11:09Z</time></trkpt>
+			<trkpt lat="41.0040407" lon="14.5506563"><time>2022-02-03T10:11:28Z</time></trkpt>
+			<trkpt lat="41.0038929" lon="14.5507532"><time>2022-02-03T10:11:46Z</time></trkpt>
+			<trkpt lat="41.0038443" lon="14.5507023"><time>2022-02-03T10:11:53Z</time></trkpt>
+			<trkpt lat="41.0036743" lon="14.5507103"><time>2022-02-03T10:12:12Z</time></trkpt>
+			<trkpt lat="41.0037208" lon="14.5507693"><time>2022-02-03T10:12:19Z</time></trkpt>
+			<trkpt lat="41.0037627" lon="14.551013"><time>2022-02-03T10:12:40Z</time></trkpt>
+			<trkpt lat="41.0037146" lon="14.5510968"><time>2022-02-03T10:12:49Z</time></trkpt>
+			<trkpt lat="41.00366" lon="14.551184"><time>2022-02-03T10:12:58Z</time></trkpt>
+			<trkpt lat="41.003639" lon="14.5515731"><time>2022-02-03T10:13:31Z</time></trkpt>
+			<trkpt lat="41.0035065" lon="14.5519048"><time>2022-02-03T10:14:02Z</time></trkpt>
+			<trkpt lat="41.0033919" lon="14.5520557"><time>2022-02-03T10:14:20Z</time></trkpt>
+			<trkpt lat="41.0031273" lon="14.5523941"><time>2022-02-03T10:15:01Z</time></trkpt>
+			<trkpt lat="41.0030696" lon="14.5526791"><time>2022-02-03T10:15:26Z</time></trkpt>
+			<trkpt lat="41.002972" lon="14.5529104"><time>2022-02-03T10:15:48Z</time></trkpt>
+			<trkpt lat="41.0028879" lon="14.5533348"><time>2022-02-03T10:16:25Z</time></trkpt>
+			<trkpt lat="41.0026649" lon="14.5529088"><time>2022-02-03T10:17:08Z</time></trkpt>
+			<trkpt lat="41.0025636" lon="14.5525628"><time>2022-02-03T10:17:39Z</time></trkpt>
+			<trkpt lat="41.0024108" lon="14.5522321"><time>2022-02-03T10:18:12Z</time></trkpt>
+			<trkpt lat="41.0018656" lon="14.5516623"><time>2022-02-03T10:19:29Z</time></trkpt>
+			<trkpt lat="41.0013921" lon="14.5514461"><time>2022-02-03T10:20:25Z</time></trkpt>
+			<trkpt lat="41.0010942" lon="14.5514396"><time>2022-02-03T10:20:58Z</time></trkpt>
+			<trkpt lat="41.0005148" lon="14.551212"><time>2022-02-03T10:22:05Z</time></trkpt>
+			<trkpt lat="40.9996884" lon="14.5511955"><time>2022-02-03T10:23:37Z</time></trkpt>
+			<trkpt lat="40.998928" lon="14.5510651"><time>2022-02-03T10:25:02Z</time></trkpt>
+			<trkpt lat="40.9984093" lon="14.5512159"><time>2022-02-03T10:26:01Z</time></trkpt>
+			<trkpt lat="40.9977283" lon="14.5516157"><time>2022-02-03T10:27:24Z</time></trkpt>
+			<trkpt lat="40.9974061" lon="14.5518214"><time>2022-02-03T10:28:04Z</time></trkpt>
+			<trkpt lat="40.9965707" lon="14.5525864"><time>2022-02-03T10:29:57Z</time></trkpt>
+			<trkpt lat="40.9961758" lon="14.5534416"><time>2022-02-03T10:31:21Z</time></trkpt>
+			<trkpt lat="40.9961608" lon="14.5537129"><time>2022-02-03T10:31:43Z</time></trkpt>
+			<trkpt lat="40.9961342" lon="14.5540312"><time>2022-02-03T10:32:10Z</time></trkpt>
+			<trkpt lat="40.9960834" lon="14.5544764"><time>2022-02-03T10:32:48Z</time></trkpt>
+			<trkpt lat="40.996046" lon="14.5548329"><time>2022-02-03T10:33:18Z</time></trkpt>
+			<trkpt lat="40.9960367" lon="14.5550782"><time>2022-02-03T10:33:39Z</time></trkpt>
+			<trkpt lat="40.9960366" lon="14.5553625"><time>2022-02-03T10:34:03Z</time></trkpt>
+			<trkpt lat="40.9961521" lon="14.5559505"><time>2022-02-03T10:34:54Z</time></trkpt>
+			<trkpt lat="40.9963213" lon="14.5564492"><time>2022-02-03T10:35:40Z</time></trkpt>
+			<trkpt lat="40.9964094" lon="14.5566518"><time>2022-02-03T10:35:59Z</time></trkpt>
+			<trkpt lat="40.9966863" lon="14.5570467"><time>2022-02-03T10:36:44Z</time></trkpt>
+			<trkpt lat="40.9969045" lon="14.5573029"><time>2022-02-03T10:37:17Z</time></trkpt>
+			<trkpt lat="40.9968979" lon="14.5573797"><time>2022-02-03T10:37:23Z</time></trkpt>
+			<trkpt lat="40.996838" lon="14.5574118"><time>2022-02-03T10:37:30Z</time></trkpt>
+			<trkpt lat="40.9961292" lon="14.5572402"><time>2022-02-03T10:38:51Z</time></trkpt>
+			<trkpt lat="40.9957706" lon="14.55719"><time>2022-02-03T10:39:31Z</time></trkpt>
+			<trkpt lat="40.9956885" lon="14.5571699"><time>2022-02-03T10:39:40Z</time></trkpt>
+			<trkpt lat="40.9951626" lon="14.5568524"><time>2022-02-03T10:40:44Z</time></trkpt>
+			<trkpt lat="40.9950393" lon="14.5568336"><time>2022-02-03T10:40:58Z</time></trkpt>
+			<trkpt lat="40.9940995" lon="14.5567346"><time>2022-02-03T10:42:43Z</time></trkpt>
+			<trkpt lat="40.9939047" lon="14.5568484"><time>2022-02-03T10:43:06Z</time></trkpt>
+			<trkpt lat="40.9935501" lon="14.5573787"><time>2022-02-03T10:44:06Z</time></trkpt>
+			<trkpt lat="40.9932054" lon="14.5580199"><time>2022-02-03T10:45:12Z</time></trkpt>
+			<trkpt lat="40.9931111" lon="14.5582714"><time>2022-02-03T10:45:35Z</time></trkpt>
+			<trkpt lat="40.9930826" lon="14.5584964"><time>2022-02-03T10:45:54Z</time></trkpt>
+			<trkpt lat="40.9927211" lon="14.559183"><time>2022-02-03T10:47:05Z</time></trkpt>
+			<trkpt lat="40.9923513" lon="14.5596339"><time>2022-02-03T10:48:01Z</time></trkpt>
+			<trkpt lat="40.9921842" lon="14.560131"><time>2022-02-03T10:48:46Z</time></trkpt>
+			<trkpt lat="40.9921116" lon="14.5606143"><time>2022-02-03T10:49:28Z</time></trkpt>
+			<trkpt lat="40.9920757" lon="14.5607972"><time>2022-02-03T10:49:43Z</time></trkpt>
+			<trkpt lat="40.9919923" lon="14.5615528"><time>2022-02-03T10:50:47Z</time></trkpt>
+			<trkpt lat="40.9919978" lon="14.5618924"><time>2022-02-03T10:51:16Z</time></trkpt>
+			<trkpt lat="40.9920524" lon="14.5621748"><time>2022-02-03T10:51:40Z</time></trkpt>
+			<trkpt lat="40.9921181" lon="14.5623499"><time>2022-02-03T10:51:57Z</time></trkpt>
+			<trkpt lat="40.9922047" lon="14.5627553"><time>2022-02-03T10:52:32Z</time></trkpt>
+			<trkpt lat="40.9922826" lon="14.5629387"><time>2022-02-03T10:52:50Z</time></trkpt>
+			<trkpt lat="40.9923762" lon="14.5631223"><time>2022-02-03T10:53:08Z</time></trkpt>
+			<trkpt lat="40.9923473" lon="14.5631953"><time>2022-02-03T10:53:15Z</time></trkpt>
+			<trkpt lat="40.9916854" lon="14.5632941"><time>2022-02-03T10:54:29Z</time></trkpt>
+			<trkpt lat="40.9914332" lon="14.563456"><time>2022-02-03T10:55:00Z</time></trkpt>
+			<trkpt lat="40.9911486" lon="14.5638577"><time>2022-02-03T10:55:47Z</time></trkpt>
+			<trkpt lat="40.9910605" lon="14.564091"><time>2022-02-03T10:56:09Z</time></trkpt>
+			<trkpt lat="40.9910024" lon="14.564239"><time>2022-02-03T10:56:23Z</time></trkpt>
+			<trkpt lat="40.9907165" lon="14.5647246"><time>2022-02-03T10:57:14Z</time></trkpt>
+			<trkpt lat="40.9906212" lon="14.5649511"><time>2022-02-03T10:57:36Z</time></trkpt>
+			<trkpt lat="40.9904996" lon="14.565263"><time>2022-02-03T10:58:05Z</time></trkpt>
+			<trkpt lat="40.9904777" lon="14.5643682"><time>2022-02-03T10:59:21Z</time></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

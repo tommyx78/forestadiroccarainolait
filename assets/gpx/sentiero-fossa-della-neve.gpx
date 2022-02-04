@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="40.997582" lon="14.5635171">
+		<name>Faggitiello</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>66cc00</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="41.0067399" lon="14.5714242">
+		<name>Fossa della Neve</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<trk>
+		<name>sentiero-fossa-della-neve</name>
+		<desc>Length: 2.874 km (1.786 mi)</desc>
+		<trkseg>
+			<trkpt lat="40.9975756" lon="14.5635258"></trkpt>
+			<trkpt lat="40.9975513" lon="14.5638906"></trkpt>
+			<trkpt lat="40.9974946" lon="14.5642125"></trkpt>
+			<trkpt lat="40.9974946" lon="14.5648133"></trkpt>
+			<trkpt lat="40.997608" lon="14.5653497"></trkpt>
+			<trkpt lat="40.9978023" lon="14.5658915"></trkpt>
+			<trkpt lat="40.9975513" lon="14.5661383"></trkpt>
+			<trkpt lat="40.9973691" lon="14.5661571"></trkpt>
+			<trkpt lat="40.9972679" lon="14.5663153"></trkpt>
+			<trkpt lat="40.9968468" lon="14.5666157"></trkpt>
+			<trkpt lat="40.9959885" lon="14.5669805"></trkpt>
+			<trkpt lat="40.9949196" lon="14.567517"></trkpt>
+			<trkpt lat="40.9946281" lon="14.5677959"></trkpt>
+			<trkpt lat="40.994454" lon="14.5683216"></trkpt>
+			<trkpt lat="40.9943892" lon="14.5685469"></trkpt>
+			<trkpt lat="40.9944256" lon="14.5687186"></trkpt>
+			<trkpt lat="40.9945309" lon="14.5690244"></trkpt>
+			<trkpt lat="40.9946767" lon="14.5693194"></trkpt>
+			<trkpt lat="40.9950168" lon="14.5696842"></trkpt>
+			<trkpt lat="40.9953447" lon="14.5701241"></trkpt>
+			<trkpt lat="40.9955836" lon="14.5705639"></trkpt>
+			<trkpt lat="40.9959075" lon="14.5710789"></trkpt>
+			<trkpt lat="40.9960533" lon="14.5712935"></trkpt>
+			<trkpt lat="40.9958589" lon="14.5716797"></trkpt>
+			<trkpt lat="40.995454" lon="14.572302"></trkpt>
+			<trkpt lat="40.9953346" lon="14.5724844"></trkpt>
+			<trkpt lat="40.9952638" lon="14.572699"></trkpt>
+			<trkpt lat="40.9952759" lon="14.5732032"></trkpt>
+			<trkpt lat="40.9955674" lon="14.5741259"></trkpt>
+			<trkpt lat="40.9960533" lon="14.5745336"></trkpt>
+			<trkpt lat="40.9965391" lon="14.5748984"></trkpt>
+			<trkpt lat="40.996863" lon="14.5752417"></trkpt>
+			<trkpt lat="40.9971545" lon="14.575864"></trkpt>
+			<trkpt lat="40.9973975" lon="14.5763575"></trkpt>
+			<trkpt lat="40.9975918" lon="14.5768081"></trkpt>
+			<trkpt lat="40.9974946" lon="14.5774733"></trkpt>
+			<trkpt lat="40.9974137" lon="14.5779239"></trkpt>
+			<trkpt lat="40.9977861" lon="14.5776664"></trkpt>
+			<trkpt lat="40.9980939" lon="14.57713"></trkpt>
+			<trkpt lat="40.9984987" lon="14.5764219"></trkpt>
+			<trkpt lat="40.998855" lon="14.5762717"></trkpt>
+			<trkpt lat="40.9991141" lon="14.5759927"></trkpt>
+			<trkpt lat="40.9996647" lon="14.5754992"></trkpt>
+			<trkpt lat="41.000102" lon="14.5752203"></trkpt>
+			<trkpt lat="41.0005068" lon="14.5750057"></trkpt>
+			<trkpt lat="41.0008955" lon="14.5746624"></trkpt>
+			<trkpt lat="41.0011546" lon="14.5744692"></trkpt>
+			<trkpt lat="41.00177" lon="14.574083"></trkpt>
+			<trkpt lat="41.0024015" lon="14.5736324"></trkpt>
+			<trkpt lat="41.0029359" lon="14.5729243"></trkpt>
+			<trkpt lat="41.0035027" lon="14.5724951"></trkpt>
+			<trkpt lat="41.0038427" lon="14.5722591"></trkpt>
+			<trkpt lat="41.0044095" lon="14.5721089"></trkpt>
+			<trkpt lat="41.0048791" lon="14.5720874"></trkpt>
+			<trkpt lat="41.0054621" lon="14.5717227"></trkpt>
+			<trkpt lat="41.0060288" lon="14.5714222"></trkpt>
+			<trkpt lat="41.0063689" lon="14.571551"></trkpt>
+			<trkpt lat="41.0067089" lon="14.5714222"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
