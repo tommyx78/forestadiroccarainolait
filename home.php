@@ -304,31 +304,29 @@ $htmloutput=<<<EOD
                 <p>Dalla Piazza di Roccarainola alla Calvarina<br>
                 <b>Lunghezza del percorso</b>: 7 Km<br>
                 <b>Difficoltà</b>: Medio/alta<br>
-                <!-- a href="/sentieri/sentiero-botanico.html">Dettaglio</a -->
+                <a href="#">Presto online</a>
                 </p>
               </div>
               <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
                 <h4>Itinerario "Le Costarelle"</h4>
-                <p>....<br>
+                <p><br>
                 <b>Lunghezza del percorso</b>:  Km<br>
-                <b>Difficoltà</b>: <br>
-                <!-- a href="/sentieri/sentiero-botanico.html">Dettaglio</a -->
+                <b>Difficoltà</b>: media<br>
+                <a href="#">Presto online</a>
                 </p>
               </div>
               <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                <h4>Itinerario "Le saliere"</h4>
+                <h4>Itinerario "Le Saliere"</h4>
                 <p>Dal Dottoriello alle Saliere<br>
-                <b>Lunghezza del percorso</b>:  Km<br>
-                <b>Difficoltà</b>: <br>
-                <!-- a href="/sentieri/sentiero-botanico.html">Dettaglio</a -->
+                <b>Lunghezza del percorso</b>: 3Km<br>
+                <b>Difficoltà</b> bassa <br>
+                <a href="#">Presto online</a>
                 </p>
               </div>
               <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                <h4></h4>
-                <p>Dal Dottoriello alle Saliere<br>
-                <b>Lunghezza del percorso</b>:  Km<br>
-                <b>Difficoltà</b>: <br>
-                <!-- a href="/sentieri/sentiero-botanico.html">Dettaglio</a -->
+                <h4>Libro di vetta</h4>
+                <p>Cima Piano Maggiore - Punta Calvarina<br>
+                <a href="#">Presto online</a>
                 </p>
               </div>
           </div><!-- End .content-->

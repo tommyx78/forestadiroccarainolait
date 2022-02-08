@@ -19,7 +19,7 @@ $htmloutput=<<<EOD
             </p>
             <div class="social-links mt-3">
 
-              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.facebook.com/forestadiroccarainola/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
               <a href="#" class="google-plus"><i class="bx bxl-google"></i></a>
 
             </div>
