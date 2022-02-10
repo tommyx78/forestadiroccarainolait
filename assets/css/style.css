@@ -1129,7 +1129,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #334926;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1167,7 +1167,7 @@ section {
   padding: 12px 15px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #36ae25;
+  background: #334926;
   border: 0;
   padding: 10px 24px;
   color: #fff;

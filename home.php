@@ -3,7 +3,7 @@
 $htmloutput=<<<EOD
 <!-- ======= Hero Section ======= -->
 <section id="hero">
-  <div class="hero-container" data-aos="fade-up">
+  <div class="hero-container" data-aos="">
     <h1>Boschi da fiaba</h1>
     <h2>Luoghi magici tra cielo e terra</h2>
     <a href="#foresta" class="btn-get-started scrollto"><i class="bx bx-chevrons-down"></i></a>
@@ -17,30 +17,30 @@ $htmloutput=<<<EOD
     <div class="container">
 
       <div class="row no-gutters">
-        <div class="content col-xl-8 d-flex align-items-stretch" data-aos="fade-up">
+        <div class="content col-xl-8 d-flex align-items-stretch" data-aos="">
           <div class="content">
             <h3>La foresta</h3>
             <p>
-              La <b>Foresta Regionale di Roccarainola</b> è situata nella parte alta del territorio dell’omonimo
+              La <b>Foresta Regionale di Roccarainola</b> è situata nella parte alta del territorio dell'omonimo
               comune in provincia di Napoli. <br><br>Inserita nel <b>Parco Regionale del Partenio</b>, si estende su
               una superficie totale di circa 896 ettari, con uno sviluppo perimetrale di circa 32 Km e un'escursione altimetrica che va dai 250 ai 973 m.s.l.m.
-              L'area forestale si sviluppa lungo la dorsale carbonatica dell’Appenino Meridionale, a nord
-              est del Vesuvio, in un’ ampia zona che va dal Monte Maio a sud fino al S.Cesareo a nord
+              L'area forestale si sviluppa lungo la dorsale carbonatica dell'Appenino Meridionale, a nord
+              est del Vesuvio, in un'ampia zona che va dal Monte Maio a sud fino al S.Cesareo a nord
               e confina con le province di Avellino a est e di Benevento a est e a sud, a nord con il
               comune di San Felice a Cancello in provincia di Caserta. Alla foresta appartiene anche il
               Monte Fellino, distaccato dal corpo principale, ma sempre compreso nel territorio del
-              comune di Roccarainola, un’area brulla e quasi priva di vegetazione tranne che per un’area
+              comune di Roccarainola, un'area brulla e quasi priva di vegetazione tranne che per un'area
               boscata situata sulle pendici sud orientali. La vegetazione è per lo più costituita da un misto
               di acero, roverella, carpino bianco, carpino nero, leccio, distinguendosi in alcune aree per
               la presenza del faggio.<br><br>
               Il suolo è costituito da un substrato carbonatico di epoca meso-cenozoica, ricoperto da
               depositi olocenici, quali piroclasti da caduta, provenienti dal complesso vulcanico del
               Somma-Vesuvio, depositatisi a seguito delle varie eruzioni succedutesi nel tempo e
-              determinando la formazione del terreno particolarmente fertile che caratterizza l’area. La
+              determinando la formazione del terreno particolarmente fertile che caratterizza l'area. La
               foresta è divisa in 29 particelle che prendono il nome dalla flora o da altre caratteristiche
               che le contraddistinguono; ad esempio la località Cisterna Faggitiello deve il suo nome
-              alla presenza dei numerosi faggi che circondano un’antica cisterna per la raccolta dell’acqua.<br><br>
-              La presenza umana ha modificato solo in parte l’aspetto originale della foresta, che in
+              alla presenza dei numerosi faggi che circondano un'antica cisterna per la raccolta dell'acqua.<br><br>
+              La presenza umana ha modificato solo in parte l'aspetto originale della foresta, che in
               alcune aree presenta ancora uno stato semi-incontaminato, come in alcune zone del Monte
               Veccio e del Monte Fellino.<br><br>
             </p>
@@ -64,7 +64,7 @@ $htmloutput=<<<EOD
       <div class="row">
 
         <div class="col-md-3 col-lg-2 d-flex align-items-stretch mb-5 mb-lg-0">
-          <div class="icon-box" data-aos="fade-up">
+          <div class="icon-box" data-aos="">
             <!-- div class="icon"><i class="bx bxl-dribbble"></i></div -->
             <h4 class="title"><a href="">Nome del luogo</a></h4>
             <p class="description">Foresta Regionale di Roccarainola, ubicata nel comune di Roccarainola (NA)</p>
@@ -72,7 +72,7 @@ $htmloutput=<<<EOD
         </div>
 
         <div class="col-md-3 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-          <div class="icon-box" data-aos="fade-up">
+          <div class="icon-box" data-aos="">
             <!-- div class="icon"><i class="bx bxl-dribbble"></i></div -->
             <h4 class="title"><a href="">Dimensione</a></h4>
             <p class="description">La foresta si estende per 950ha nel comprensorio del Parco Regionale del Partenio con
@@ -83,7 +83,7 @@ $htmloutput=<<<EOD
 
 
         <div class="col-md-3 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-          <div class="icon-box" data-aos="fade-up">
+          <div class="icon-box" data-aos="">
             <!-- div class="icon"><i class="bx bxl-dribbble"></i></div -->
             <h4 class="title"><a href="">Specie arboree</a></h4>
             <p class="description">Castagno selvatico, Ontano, Douglasia, Faggio, Nocciolo selvatico, Carpino</p>
@@ -91,7 +91,7 @@ $htmloutput=<<<EOD
         </div>
 
         <div class="col-md-3 col-lg-2 d-flex align-items-stretch mb-5 mb-lg-0">
-          <div class="icon-box" data-aos="fade-up">
+          <div class="icon-box" data-aos="">
             <!-- div class="icon"><i class="bx bxl-dribbble"></i></div -->
             <h4 class="title"><a href="">Sottobosco</a></h4>
             <p class="description">Arbusti di Coronilla, Biancospino, Sanguinella, Ginestra</p>
@@ -99,7 +99,7 @@ $htmloutput=<<<EOD
         </div>
 
         <div class="col-md-3 col-lg-2 d-flex align-items-stretch mb-5 mb-lg-0">
-          <div class="icon-box" data-aos="fade-up">
+          <div class="icon-box" data-aos="">
             <!-- div class="icon"><i class="bx bxl-dribbble"></i></div -->
             <h4 class="title"><a href="">Animali</a></h4>
             <p class="description">Tasso, Cinghiale, Riccio, Volpe, Biscia, Merlo, Poiana, Falco pellegrino, Passeracei</p>
@@ -116,7 +116,7 @@ $htmloutput=<<<EOD
   <section id="flora" class="info">
     <div class="container">
       <div class="row no-gutters">
-        <div class="content col-xl-12 d-flex align-items-stretch" data-aos="fade-up">
+        <div class="content col-xl-12 d-flex align-items-stretch" data-aos="">
           <div class="content">
             <h3>La flora</h3>
             <p>
@@ -124,15 +124,15 @@ $htmloutput=<<<EOD
               incontra un po' ovunque, ed è composto prevalentemente da esemplari di roverella,
               carpino bianco, carpino nero, orniello, acero, tiglio e leccio.
               Il sottobosco è invece costituito dalla tipica macchia mediterranea: vi convivono arbusti
-              quali alloro, corbezzolo, lentisco,ginestra, rosa selvatica e specie erbacee come l’origano e l’ asparago selvatico, oltre che felci aquiline che,
-              nei mesi estivi, superano il metro di altezza. Ampiamente rappresentate sono il biancospino e l’agrifoglio.<br><br>
+              quali alloro, corbezzolo, lentisco,ginestra, rosa selvatica e specie erbacee come l'origano e l' asparago selvatico, oltre che felci aquiline che,
+              nei mesi estivi, superano il metro di altezza. Ampiamente rappresentate sono il biancospino e l'agrifoglio.<br><br>
               In alcune aree, nei periodi più favorevali allo sviluppo, si possono inoltre trovare molte
               varietà di funghi commestibili, tra cui i più apprezzati sono i porcini. In località Fosso
               Agnone, dove è anche presente un campo sperimentale di 2 ettari per la coltivazione del
               castagno da frutta, la vegetazione è costituita prevalentemente da castagno selvatico, e ontano napoletano, pianta endemica del
               meridione d'Italia.
               Ad altezze superiori, come in località Costa Grande, le specie prevalenti sono la roverella
-              e il cerro, mentre, procedendo ancora verso l’alto,
+              e il cerro, mentre, procedendo ancora verso l'alto,
               a partire da <b>Cisterna del Faggitiello</b> si incontrano i primi esemplari di faggio ,
               la cui presenza continua fino alla località nota come <b>Fossa della Neve</b>, dove, a circa 1000
               metri di altezza, si possono incontrare <b>esemplari vecchi di oltre 300 anni</b>. Da Cisterna del
@@ -159,7 +159,7 @@ $htmloutput=<<<EOD
   <section id="fauna" class="info">
     <div class="container">
       <div class="row no-gutters">
-        <div class="content col-xl-12 d-flex align-items-stretch" data-aos="fade-up">
+        <div class="content col-xl-12 d-flex align-items-stretch" data-aos="">
           <div class="content">
             <h3>La fauna</h3>
             <p>
@@ -197,7 +197,7 @@ $htmloutput=<<<EOD
     <div class="container">
 
       <div class="row no-gutters">
-        <div class="content col-xl-5 d-flex align-items-stretch" data-aos="fade-up">
+        <div class="content col-xl-5 d-flex align-items-stretch" data-aos="">
           <div class="content">
             <h3>I sentieri della foresta</h3>
             <p>
@@ -210,7 +210,7 @@ $htmloutput=<<<EOD
         <div class="col-xl-7 d-flex align-items-stretch">
           <div class="icon-boxes d-flex flex-column justify-content-center">
             <div class="row">
-              <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="col-md-6 icon-box" data-aos="" data-aos-delay="100">
                 <!-- i class="bx bx-receipt"></i -->
                 <h4>Il Sentiero Botanico</h4>
                 <p>Da Fossa Agnone al Vivaio Costa Grande<br>
@@ -220,14 +220,14 @@ $htmloutput=<<<EOD
                 </p>
 
               </div>
-              <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+              <div class="col-md-6 icon-box" data-aos="" data-aos-delay="200">
 
                 <h4>Strada di servizio</h4>
                 <p>Da Fossa Agnone a Piano del Pozzo<br>
                 <b>Lunghezza del percorso</b>: 7 Km<br>
                 <b>Difficoltà</b>: bassa</p>
               </div>
-              <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+              <div class="col-md-6 icon-box" data-aos="" data-aos-delay="300">
                 <h4>Sentiero Fossa della neve</h4>
                 <p>Da Cisterna Faggitiello a Fossa della Neve<br>
                 <b>Lunghezza del percorso</b>: 4 Km<br>
@@ -235,14 +235,14 @@ $htmloutput=<<<EOD
                 <a href="/sentieri/sentiero-fossadellaneve.html">Dettaglio</a>
                 </p>
               </div>
-              <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+              <div class="col-md-6 icon-box" data-aos="" data-aos-delay="400">
                 <h4>Sentiero Monte Maio</h4>
                 <p>Dal Dottoriello a Monte Maio<br>
                 <b>Lunghezza del percorso</b>: 2 Km<br>
                 <b>Difficoltà</b>: bassa</p>
               </div>
 
-              <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+              <div class="col-md-6 icon-box" data-aos="" data-aos-delay="400">
                 <h4>Sentiero Costarelle - Maio</h4>
                 <p>Dal Vivaio al Monte Maio e viceversa<br>
                 <b>Lunghezza del percorso</b>: 1,2 Km<br>
@@ -251,7 +251,7 @@ $htmloutput=<<<EOD
                 </p>
               </div>
 
-              <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+              <div class="col-md-6 icon-box" data-aos="" data-aos-delay="400">
                 <h4>Sentiero Cantarelli</h4>
                 <p>Da Gargani al Vivaio Costa Grande<br>
                 <b>Lunghezza del percorso</b>: 3 Km<br>
@@ -260,14 +260,14 @@ $htmloutput=<<<EOD
                 </p>
               </div>
 
-              <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+              <div class="col-md-6 icon-box" data-aos="" data-aos-delay="400">
                 <h4>Dal Vivaio al Dottoriello</h4>
                 <p>Dal Vivaio al Monte Maio e viceversa<br>
                 <b>Lunghezza del percorso</b>: 1,2 Km<br>
                 <b>Difficoltà</b>: bassa</p>
               </div>
 
-              <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+              <div class="col-md-6 icon-box" data-aos="" data-aos-delay="400">
                 <h4>Sentiero Tana della lupa</h4>
                 <p>Si sviluppa interamente sul Monte Veccio<br>
                 <b>Lunghezza del percorso</b>: 4 Km<br>
@@ -286,7 +286,7 @@ $htmloutput=<<<EOD
     <div class="container">
 
       <div class="row no-gutters">
-        <div class="content col-xl-5 d-flex align-items-stretch" data-aos="fade-up">
+        <div class="content col-xl-5 d-flex align-items-stretch" data-aos="">
           <div class="content">
             <h3>Itinerari e punti di interesse</h3>
             <p>
@@ -298,7 +298,7 @@ $htmloutput=<<<EOD
         <div class="col-xl-7 d-flex align-items-stretch">
           <div class="icon-boxes d-flex flex-column justify-content-center">
             <div class="row">
-              <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="col-md-6 icon-box" data-aos="" data-aos-delay="100">
                 <!-- i class="bx bx-receipt"></i -->
                 <h4>Il cammino dell'anima</h4>
                 <p>Dalla Piazza di Roccarainola alla Calvarina<br>
@@ -307,7 +307,7 @@ $htmloutput=<<<EOD
                 <a href="#">Presto online</a>
                 </p>
               </div>
-              <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+              <div class="col-md-6 icon-box" data-aos="" data-aos-delay="200">
                 <h4>Itinerario "Le Costarelle"</h4>
                 <p><br>
                 <b>Lunghezza del percorso</b>:  Km<br>
@@ -315,7 +315,7 @@ $htmloutput=<<<EOD
                 <a href="#">Presto online</a>
                 </p>
               </div>
-              <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+              <div class="col-md-6 icon-box" data-aos="" data-aos-delay="200">
                 <h4>Itinerario "Le Saliere"</h4>
                 <p>Dal Dottoriello alle Saliere<br>
                 <b>Lunghezza del percorso</b>: 3Km<br>
@@ -323,9 +323,9 @@ $htmloutput=<<<EOD
                 <a href="#">Presto online</a>
                 </p>
               </div>
-              <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+              <div class="col-md-6 icon-box" data-aos="" data-aos-delay="200">
                 <h4>Libro di vetta</h4>
-                <p>Cima Piano Maggiore - Punta Calvarina<br>
+                <p>Piano Maggiore - Punta Calvarina 973m s.l.m.<br>
                 <a href="#">Presto online</a>
                 </p>
               </div>
@@ -414,7 +414,7 @@ $htmloutput=<<<EOD
         </div>
       </div -->
 
-      <div class="row portfolio-container" data-aos="fade-up">
+      <div class="row portfolio-container" data-aos="">
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
@@ -506,6 +506,27 @@ $htmloutput=<<<EOD
           </div>
         </div>
 
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/librovetta.jpg" class="img-fluid" alt="">
+            <div class="portfolio-links">
+              <a href="assets/img/portfolio/librovetta.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Scorcio"><i class="bx bx-plus"></i></a>
+              <!-- a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a -->
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/panorama.jpg" class="img-fluid" alt="">
+            <div class="portfolio-links">
+              <a href="assets/img/portfolio/panorama.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Scorcio"><i class="bx bx-plus"></i></a>
+              <!-- a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a -->
+            </div>
+          </div>
+        </div>
+
+
 
 
 
@@ -524,7 +545,7 @@ $htmloutput=<<<EOD
         <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
       </div>
 
-      <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+      <div class="testimonials-slider swiper" data-aos="" data-aos-delay="100">
         <div class="swiper-wrapper">
 
           <div class="swiper-slide">
@@ -585,7 +606,7 @@ $htmloutput=<<<EOD
       <div class="row">
 
         <div class="col-lg-4 col-md-6">
-          <div class="member" data-aos="fade-up">
+          <div class="member" data-aos="">
             <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
             <div class="member-info">
               <h4>Walter White</h4>
@@ -601,7 +622,7 @@ $htmloutput=<<<EOD
         </div>
 
         <div class="col-lg-4 col-md-6">
-          <div class="member" data-aos="fade-up" data-aos-delay="150">
+          <div class="member" data-aos="" data-aos-delay="150">
             <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
             <div class="member-info">
               <h4>Sarah Jhonson</h4>
@@ -617,7 +638,7 @@ $htmloutput=<<<EOD
         </div>
 
         <div class="col-lg-4 col-md-6">
-          <div class="member" data-aos="fade-up" data-aos-delay="300">
+          <div class="member" data-aos="" data-aos-delay="300">
             <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
             <div class="member-info">
               <h4>William Anderson</h4>
@@ -637,18 +658,24 @@ $htmloutput=<<<EOD
     </div>
   </section><!-- End Team Section -->
 
+
+
+
   <!-- ======= Info Section Progetto INFO======= -->
   <section id="progetto" class="info">
     <div class="container">
       <div class="row no-gutters">
-        <div class="content col-xl-12 d-flex align-items-stretch" data-aos="fade-up">
+        <div class="content col-xl-12 d-flex align-items-stretch" data-aos="">
           <div class="content">
             <h3>Il progetto web</h3>
             <p>
-              Il progetto <b>www.forestadiroccarainola.it - Boschi da fiaba</b> nasce da un'idea di Tommaso Palo ed è completamente indipendente dall'ente Foresta Regionale
-              di Roccarainola e dall'ente Comunale e dall'ente Regione Campania. Alcune informazioni contenute sono tratte dal vademecum della foresta realizzato
-              dall'assessorato all'agricoltura della regione Campania a cui sono riservati i diritti intellettuali. Le foto e altri contenuti multimediali,
-              se non espressamente indicato sono di proprietà di Tommaso Palo. Il progetto è in fase di sviluppo e implementazione.
+              Il progetto <b>www.forestadiroccarainola.it - Boschi da fiaba</b> nasce da un'idea di Tommaso Palo.<br>
+              Lo scopo è quello di condividere un luogo di interesse naturalistico e di far conoscere i suoi boschi da fiaba.
+              E' un progetto indipendente e non ha nessun rapporto con l'Ente Foresta Regionale
+              di Roccarainola. Alcune informazioni contenute sono tratte dal vademecum della foresta realizzato
+              dall'assessorato all'agricoltura della regione Campania a cui sono riservati i diritti intellettuali.
+              Le foto e altri contenuti multimediali, se non espressamente indicato sono di proprietà di Tommaso Palo.
+              Il progetto è in fase di sviluppo e implementazione.
             </p>
             <!-- a href="#" class="about-btn">About us <i class="bx bx-chevron-right"></i></a -->
           </div>
@@ -661,7 +688,7 @@ $htmloutput=<<<EOD
 
   <!-- ======= Contact Section ======= -->
   <section id="contact" class="contact section-bg">
-    <div class="container" data-aos="fade-up">
+    <div class="container" data-aos="">
 
       <div class="section-title">
         <h2>Contatti</h2>
@@ -702,7 +729,7 @@ $htmloutput=<<<EOD
         </div>
 
         <div class="col-lg-6">
-          <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+          <form action="forms/contact.php" method="POST" role="form" class="php-email-form">
             <div class="row">
               <div class="col-md-6 form-group">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Nome" required>
@@ -711,12 +738,13 @@ $htmloutput=<<<EOD
                 <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
               </div>
             </div>
-            <div class="form-group mt-3">
+            <!-- div class="form-group mt-3">
               <input type="text" class="form-control" name="subject" id="subject" placeholder="Oggetto" required>
-            </div>
+            </div -->
             <div class="form-group mt-3">
               <textarea class="form-control" name="message" rows="5" placeholder="Messaggio" required></textarea>
             </div>
+            <!-- div class="g-recaptcha" data-sitekey="6LffQWkeAAAAACE-arnRIfK0ZgPisqbJcdTGXeAm"></div -->
             <div class="my-3">
               <div class="loading">Loading</div>
               <div class="error-message"></div>
