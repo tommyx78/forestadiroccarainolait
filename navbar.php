@@ -19,6 +19,7 @@ $htmloutput= <<<EOD
               <li><a class="nav-link scrollto" href="/index.php#foresta">Informazioni</a></li>
               <li><a class="nav-link scrollto" href="/index.php#flora">La flora</a></li>
               <li><a class="nav-link scrollto" href="/index.php#fauna">La fauna</a></li>
+              <li><a class="nav-link scrollto" href="/index.php#comearrivare">Orari di apertura</a></li>
               <li><a class="nav-link scrollto" href="/blog/alla-scoperta-della-foresta-di-roccarainola.html">La foresta raccontata</a></li>
             </ul>
           </li>

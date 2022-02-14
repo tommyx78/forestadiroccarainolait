@@ -686,6 +686,36 @@ $htmloutput=<<<EOD
     </div>
   </section><!-- End About Section -->
 
+  <!-- ======= Info Section Progetto INFO======= -->
+  <section id="comearrivare" class="info">
+    <div class="container">
+      <div class="row no-gutters">
+        <div class="content col-xl-12 d-flex align-items-stretch" data-aos="">
+          <div class="content">
+            <h3>Orari di apertura della Foresta</h3>
+            <p>La foresta è aperta tutti i giorni dal lunedì al venerdì dalle
+             ore 8.00 alle ore 14.20; <br>
+             Nel periodo estivo (luglio - settembre) la foresta è aperta anche
+             il sabato e la domenica, per gli orari consultare il sito
+             www.regione.campania.it<br><br>
+
+             <b>La foresta è raggiungibile:</b><br><br>
+             Con Autostrada Napoli/Bari, provenienti da Napoli o Avellino, è preferibile usicre al casello di Tufino
+             procedere verso strada statale SS7bis e all'incrocio girare a sinistra e proseguire fino a Schiava (NA).
+             All’altezza dell'hotel Maddaloni svoltare a destra e continuare fino a Roccarainola.
+             <br><br>
+             Dal centro del paese seguire le indicazioni per il ristorante "Il
+             Saraceno" e successivamente quelle per la foresta.
+            </p>
+            <!-- a href="#" class="about-btn">About us <i class="bx bx-chevron-right"></i></a -->
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section><!-- End About Section -->
+
   <!-- ======= Contact Section ======= -->
   <section id="contact" class="contact section-bg">
     <div class="container" data-aos="">
