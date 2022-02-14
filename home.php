@@ -205,6 +205,20 @@ $htmloutput=<<<EOD
               In questa sezione sono elencati i sentieri della foresta con caratteristiche e descrizioni.
             </p>
             <!-- a href="#" class="about-btn">About us <i class="bx bx-chevron-right"></i></a -->
+            <section id="portfolio" class="portfolio">
+              <div class="row portfolio-container" data-aos="">
+                <div class="col-lg-12 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/carta_foresta_roccarainola_1.0.1.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-links">
+                      <a href="assets/img/portfolio/carta_foresta_roccarainola_1.0.1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mappa dei sentieri della foresta"><i class="bx bx-plus"></i></a>
+                      <!-- a href="/dettaglio/page1.html" title="More Details"><i class="bx bx-link"></i></a -->
+                    </div>
+                  </div>
+                </div>
+              </div>
+              </section>
+
           </div>
         </div>
         <div class="col-xl-7 d-flex align-items-stretch">
