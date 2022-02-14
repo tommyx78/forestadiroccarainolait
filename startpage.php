@@ -8,6 +8,10 @@ $htmloutput = <<<EOD
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+
   <title>Foresta di Roccarainola - Boschi da fiaba</title>
   <meta content="Foresta di Roccarainola - Parco regionale del Partenio" name="description">
   <meta content="Foresta, boschi, roccarainola, parco, Natura" name="keywords">
