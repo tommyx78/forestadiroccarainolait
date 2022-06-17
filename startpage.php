@@ -12,7 +12,7 @@ $htmloutput = <<<EOD
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Expires" content="0">
 
-  <title>Foresta di Roccarainola - Boschi da fiaba</title>
+  <title>Foresta di Roccarainola</title>
   <meta content="Foresta di Roccarainola - Parco regionale del Partenio" name="description">
   <meta content="Foresta, boschi, roccarainola, parco, Natura" name="keywords">
 
