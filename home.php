@@ -4,7 +4,7 @@ $htmloutput=<<<EOD
 <!-- ======= Hero Section ======= -->
 <section id="hero">
   <div class="hero-container" data-aos="">
-    <h1>Boschi da fiaba</h1>
+    <h1>Foresta di Roccarainola</h1>
     <h2>Luoghi magici tra cielo e terra</h2>
     <a href="#foresta" class="btn-get-started scrollto"><i class="bx bx-chevrons-down"></i></a>
   </div>
