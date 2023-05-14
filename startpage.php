@@ -8,7 +8,11 @@ $htmloutput = <<<EOD
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Foresta di Roccarainola - Boschi da fiaba</title>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+
+  <title>Foresta di Roccarainola</title>
   <meta content="Foresta di Roccarainola - Parco regionale del Partenio" name="description">
   <meta content="Foresta, boschi, roccarainola, parco, Natura" name="keywords">
 
@@ -49,6 +53,26 @@ $htmloutput = <<<EOD
 
     gtag('config', 'G-SPZ113S28V');
   </script>
+  <!-- RECAPTCHA -->
+   <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+ <script>
+    var allowSubmit = false;
+    
+    function capcha_filled () {
+        allowSubmit = true;
+    }
+    
+    function capcha_expired () {
+        allowSubmit = false;
+    }
+    
+    function check_if_capcha_is_filled (e) {
+        if(allowSubmit) return true;
+        e.preventDefault();
+        alert('Fill in the capcha!');
+    }
+
+ </script>
 
 </head>
 <body>

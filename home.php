@@ -4,7 +4,7 @@ $htmloutput=<<<EOD
 <!-- ======= Hero Section ======= -->
 <section id="hero">
   <div class="hero-container" data-aos="">
-    <h1>Boschi da fiaba</h1>
+    <h1>Foresta di Roccarainola</h1>
     <h2>Luoghi magici tra cielo e terra</h2>
     <a href="#foresta" class="btn-get-started scrollto"><i class="bx bx-chevrons-down"></i></a>
   </div>
@@ -205,6 +205,20 @@ $htmloutput=<<<EOD
               In questa sezione sono elencati i sentieri della foresta con caratteristiche e descrizioni.
             </p>
             <!-- a href="#" class="about-btn">About us <i class="bx bx-chevron-right"></i></a -->
+            <section id="portfolio" class="portfolio">
+              <div class="row portfolio-container" data-aos="">
+                <div class="col-lg-12 col-md-6 portfolio-item filter-app">
+                  <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/carta_foresta_roccarainola_1.0.1.jpg" class="img-fluid" alt="">
+                    <div class="portfolio-links">
+                      <a href="assets/img/portfolio/carta_foresta_roccarainola_1.0.1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Mappa dei sentieri della foresta"><i class="bx bx-plus"></i></a>
+                      <!-- a href="/dettaglio/page1.html" title="More Details"><i class="bx bx-link"></i></a -->
+                    </div>
+                  </div>
+                </div>
+              </div>
+              </section>
+
           </div>
         </div>
         <div class="col-xl-7 d-flex align-items-stretch">
@@ -738,7 +752,7 @@ $htmloutput=<<<EOD
           <div class="info-box  mb-4">
             <i class="bx bx-envelope"></i>
             <h3>Email</h3>
-            <p>info@forestadiroccarainola.it</p>
+            <p>info(@)forestadiroccarainola.it</p>
           </div>
         </div>
 
@@ -746,7 +760,7 @@ $htmloutput=<<<EOD
           <div class="info-box  mb-4">
             <i class="bx bx-phone-call"></i>
             <h3>WhatsApp</h3>
-            <p>+39 3932051181</p>
+            <p><a href="https://wa.me/+393932051181">Clicca e invia un messaggio</a></p>
           </div>
         </div>
 
@@ -759,7 +773,8 @@ $htmloutput=<<<EOD
         </div>
 
         <div class="col-lg-6">
-          <form action="forms/contact.php" method="POST" role="form" class="php-email-form">
+          <!-- form id="form_email" action="forms/contact.php" method="POST" role="form" class="php-email-form" onsubmit="check_if_capcha_is_filled">
+          
             <div class="row">
               <div class="col-md-6 form-group">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Nome" required>
@@ -768,20 +783,22 @@ $htmloutput=<<<EOD
                 <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
               </div>
             </div>
-            <!-- div class="form-group mt-3">
+            <div class="form-group mt-3">
               <input type="text" class="form-control" name="subject" id="subject" placeholder="Oggetto" required>
-            </div -->
+            </div>
             <div class="form-group mt-3">
               <textarea class="form-control" name="message" rows="5" placeholder="Messaggio" required></textarea>
             </div>
-            <!-- div class="g-recaptcha" data-sitekey="6LffQWkeAAAAACE-arnRIfK0ZgPisqbJcdTGXeAm"></div -->
+            
             <div class="my-3">
               <div class="loading">Loading</div>
               <div class="error-message"></div>
               <div class="sent-message">Il messaggio è stato inviato</div>
             </div>
+            <div class="g-recaptcha" data-sitekey="6LffQWkeAAAAACE-arnRIfK0ZgPisqbJcdTGXeAm" data-callback="capcha_filled"
+   data-expired-callback="capcha_expired"></div>
             <div class="text-center"><button type="submit">Invia</button></div>
-          </form>
+          </form -->
         </div>
 
       </div>

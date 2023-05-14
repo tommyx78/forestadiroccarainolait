@@ -15,7 +15,7 @@ $htmloutput=<<<EOD
               Roccarainola (NA) <br> Via Veccio <br>
               <br><br>
 
-              <strong>Email:</strong> info@forestadiroccarainola.it<br>
+              <strong>Email:</strong> info(@)forestadiroccarainola.it<br>
             </p>
             <div class="social-links mt-3">
 
@@ -39,7 +39,7 @@ $htmloutput=<<<EOD
           <h4>Altri link</h4>
           <ul>
             <li><i class="bx bx-chevron-right"></i><a href="https://www.facebook.com/groups/5344282725597616/">Gruppo FB Nature Experience</a></li>
-            <li><i class="bx bx-chevron-right"></i><a href="https://www.libellulapp.it" target="_blank">Libellula - App per il turismo</a></li>
+            <!-- li><i class="bx bx-chevron-right"></i><a href="https://www.libellulapp.it" target="_blank">Libellula - App per il turismo</a></li -->
             <li><i class="bx bx-chevron-right"></i><a href="https://www.tommasopalo.it">Tommaso Palo - Natural Tracker</a></li>
           </ul>
         </div>
