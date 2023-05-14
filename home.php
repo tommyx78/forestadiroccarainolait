@@ -12,6 +12,31 @@ $htmloutput=<<<EOD
 
 <main id="main">
 
+<!-- ======= Info Section Progetto INFO======= -->
+  <section id="progetto" class="info">
+    <div class="container">
+      <div class="row no-gutters">
+        <div class="content col-xl-12 d-flex align-items-stretch" data-aos="">
+          <div class="content">
+            <h3>Il progetto web Foresta di Roccatainola</h3>
+            <p>
+              Il progetto <b>www.forestadiroccarainola.it - Boschi da fiaba</b> è stato realizzato da <b>Tommaso Palo con fondi esclusivamente personali</b>.<br>
+              <br><br>Lo scopo è di condividere un luogo di interesse naturalistico e di far conoscere i boschi da fiaba della <b>Foresta Regionale di Roccarainola.</b><br><br>
+              E' un progetto indipendente e non ha nessun rapporto con l'Ente Foresta Regionale
+              di Roccarainola. Alcune informazioni contenute sono tratte dal vademecum della foresta realizzato
+              dall'assessorato all'agricoltura della regione Campania a cui sono riservati i diritti intellettuali.<br><br>
+              Le foto e altri contenuti multimediali, se non espressamente indicato sono di <b>proprietà di Tommaso Palo.</b>
+              Il progetto è in fase di sviluppo e implementazione.
+            </p>
+            <!-- a href="#" class="about-btn">About us <i class="bx bx-chevron-right"></i></a -->
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section><!-- End About Section -->
+
   <!-- ======= Info Section Foresta======= -->
   <section id="foresta" class="info">
     <div class="container">
@@ -19,7 +44,7 @@ $htmloutput=<<<EOD
       <div class="row no-gutters">
         <div class="content col-xl-8 d-flex align-items-stretch" data-aos="">
           <div class="content">
-            <h3>La foresta</h3>
+            <h3>Foresta Regionale di Roccarainola</h3>
             <p>
               La <b>Foresta Regionale di Roccarainola</b> è situata nella parte alta del territorio dell'omonimo
               comune in provincia di Napoli. <br><br>Inserita nel <b>Parco Regionale del Partenio</b>, si estende su
@@ -675,30 +700,7 @@ $htmloutput=<<<EOD
 
 
 
-  <!-- ======= Info Section Progetto INFO======= -->
-  <section id="progetto" class="info">
-    <div class="container">
-      <div class="row no-gutters">
-        <div class="content col-xl-12 d-flex align-items-stretch" data-aos="">
-          <div class="content">
-            <h3>Il progetto web</h3>
-            <p>
-              Il progetto <b>www.forestadiroccarainola.it - Boschi da fiaba</b> nasce da un'idea di Tommaso Palo.<br>
-              Lo scopo è quello di condividere un luogo di interesse naturalistico e di far conoscere i suoi boschi da fiaba.
-              E' un progetto indipendente e non ha nessun rapporto con l'Ente Foresta Regionale
-              di Roccarainola. Alcune informazioni contenute sono tratte dal vademecum della foresta realizzato
-              dall'assessorato all'agricoltura della regione Campania a cui sono riservati i diritti intellettuali.
-              Le foto e altri contenuti multimediali, se non espressamente indicato sono di proprietà di Tommaso Palo.
-              Il progetto è in fase di sviluppo e implementazione.
-            </p>
-            <!-- a href="#" class="about-btn">About us <i class="bx bx-chevron-right"></i></a -->
-          </div>
-        </div>
-
-      </div>
-
-    </div>
-  </section><!-- End About Section -->
+ 
 
   <!-- ======= Info Section Progetto INFO======= -->
   <section id="comearrivare" class="info">
@@ -735,8 +737,8 @@ $htmloutput=<<<EOD
     <div class="container" data-aos="">
 
       <div class="section-title">
-        <h2>Contatti</h2>
-        <!-- p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p -->
+        <h2>Per altre informazioni sulla Foresta Regionale di Roccarainola</h2>
+        <p>Contatta <b>Tommaso Palo</b> preferibilmente via whatsapp</p>
       </div>
 
       <div class="row">
@@ -759,7 +761,7 @@ $htmloutput=<<<EOD
         <div class="col-lg-3 col-md-6">
           <div class="info-box  mb-4">
             <i class="bx bx-phone-call"></i>
-            <h3>WhatsApp</h3>
+            <h3>WhatsApp di Tommaso Palo</h3>
             <p><a href="https://wa.me/+393932051181">Clicca e invia un messaggio</a></p>
           </div>
         </div>

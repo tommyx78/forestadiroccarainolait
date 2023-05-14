@@ -31,16 +31,17 @@ $htmloutput=<<<EOD
           <ul>
             <li><i class="bx bx-chevron-right"></i><a  href="https://www.regione.campania.it" target="_blank">Regione Campania</a></li>
             <li><i class="bx bx-chevron-right"></i><a  href="http://www.parcopartenio.it/">Parco Regionale del Partenio</a></li>
-            <li><i class="bx bx-chevron-right"></i><a  href="https://www.comune.roccarainola.na.it/">Comune di Roccarainola</a></li>
+            <!-- li><i class="bx bx-chevron-right"></i><a  href="https://www.comune.roccarainola.na.it/">Comune di Roccarainola</a></li -->
           </ul>
         </div>
 
         <div class="col-lg-2 col-md-6 footer-links">
           <h4>Altri link</h4>
           <ul>
+            <li><i class="bx bx-chevron-right"></i><a href="https://www.facebook.com/tommaso.palo.78">Tommaso Palo FB - Natural Tracker</a></li>
             <li><i class="bx bx-chevron-right"></i><a href="https://www.facebook.com/groups/5344282725597616/">Gruppo FB Nature Experience</a></li>
-            <!-- li><i class="bx bx-chevron-right"></i><a href="https://www.libellulapp.it" target="_blank">Libellula - App per il turismo</a></li -->
-            <li><i class="bx bx-chevron-right"></i><a href="https://www.tommasopalo.it">Tommaso Palo - Natural Tracker</a></li>
+            <li><i class="bx bx-chevron-right"></i><a href="https://www.tommasopalo.it" target="_blank">Tommaso Palo website</a></li -->
+            
           </ul>
         </div>
 
@@ -66,7 +67,7 @@ $htmloutput=<<<EOD
       <!-- You can delete the links only if you purchased the pro version. -->
       <!-- Licensing information: https://bootstrapmade.com/license/ -->
       <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/squadfree-free-bootstrap-template-creative/ -->
-      Realizzato da <a href="https://www.studiom42.com">Tommaso Palo - Studiom42.com</a>
+      Realizzato da <a href="https://www.tommasopalo.it">Tommaso Palo</a>
 
     </div>
   </div>
